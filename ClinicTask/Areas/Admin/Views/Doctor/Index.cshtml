@@ -1,0 +1,40 @@
+﻿@using ClinicTask.Models
+@model List<Doctor>
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="table-responsive pt-3">
+                <table class="table table-striped project-orders-table">
+                    <thead>
+                        <tr>
+
+                            <th>Id</th>
+                            <th>FullName</th>
+                            <th>DepartmentId</th>
+                            <th>Department Name</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (Doctor doctor in Model)
+                        {
+                            <tr>
+                                <td>@doctor.Id</td>
+                                <td>@doctor.FullName </td>
+                                <td>@doctor.DepartmentId</td>
+                                
+                                <td>@doctor.Department.Title</td>
+                                <td><a class="btn btn-danger" asp-area="Admin" asp-controller="Doctor" asp-action="Delete" asp-route-id="@doctor.Id">Delete</a></td>
+                                <td><a class="btn btn-success" asp-area="Admin" asp-controller="Doctor" asp-action="Update" asp-route-id="@doctor.Id">Edit</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- content-wrapper ends -->

@@ -1,0 +1,30 @@
+﻿@using ClinicTask.Models
+@model Doctor
+
+<form asp-area="Admin" enctype="multipart/form-data" asp-controller="Doctor" asp-action="Create" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="FullName"></label>
+        <input asp-for="FullName" class="form-control" />
+        <span asp-validation-for="FullName" class="text-danger"></span>
+    </div>
+  @*   <div class="form-group">
+        <label asp-for="ImgUrl"></label>
+        <input asp-for="ImgUrl" class="form-control" />
+        <span asp-validation-for="ImgUrl" class="text-danger"></span>
+    </div>  *@
+    <div class="form-group">
+        <label asp-for="DepartmentId"></label>
+        <input asp-for="DepartmentId" class="form-control" />
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImageUpload"></label>
+    <input asp-for="ImageUpload" type="file" id="formFile">
+        <span asp-validation-for="ImageUpload" class="text-danger"></span>
+    </div>
+    <div>
+    <button type="submit" class="btn btn-primary">Create</button>
+    </div>
+</form>
