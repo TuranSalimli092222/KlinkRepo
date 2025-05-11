@@ -1,5 +1,6 @@
 ﻿using ClinicTask.DAL;
 using ClinicTask.Models;
+using ClinicTask.Utilities.File;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,9 +10,11 @@ namespace ClinicTask.Areas.Admin.Controllers;
 public class DoctorController : Controller
 {
     private readonly AppDbContext _context;
-    public DoctorController(AppDbContext context)
+    private readonly IWebHostEnvironment _webHostEnvironment;
+    public DoctorController(AppDbContext context , IWebHostEnvironment webHostEnvironment)
     {
         _context = context;
+        _webHostEnvironment = webHostEnvironment;
     }
     public IActionResult Index()
     {
@@ -27,30 +30,22 @@ public class DoctorController : Controller
     [HttpPost]
     public IActionResult Create(Doctor doctor)
     {
-/*        if (!ModelState.IsValid)
+     /*   if (!ModelState.IsValid)
         {
             return BadRequest("Samething went wrong!");
         }*/
-        if (!doctor.ImageUpload.ContentType.Contains("image"))
-        {
-            ModelState.AddModelError("image", "File must be Image form!");
-            return View(doctor);
-        }
-        string fileName = doctor.ImageUpload.FileName;
-        string path = @"C:\Users\Turan Salimli\source\repos\ClinicTask\ClinicTask\wwwroot\UploadImages\doctors\";
 
-		using (FileStream fileStream= new FileStream(path + fileName , FileMode.Create))
+        if (doctor.ImageUpload.CheckTypeImage())
         {
-            doctor.ImageUpload.CopyTo(fileStream);
-        }
-        doctor.ImgUrl = fileName;
+			ModelState.AddModelError("image", "File must be Image form!");
+			return View(doctor);
+		}
+        string filename = doctor.ImageUpload.DownloadImage( _webHostEnvironment , @"\UploadImages\doctors\" );
+        doctor.ImgUrl = filename;
         _context.Doctors.Add(doctor);
-
         _context.SaveChanges();
-
         return RedirectToAction(nameof(Index));
     }
-
     public IActionResult Delete(int id)
     {
         Doctor? doctor = _context.Doctors.Find(id);
@@ -98,6 +93,6 @@ public class DoctorController : Controller
 
         return RedirectToAction(nameof(Index));
     }
-
+   /* public IActionResult Register()*/
    
 }

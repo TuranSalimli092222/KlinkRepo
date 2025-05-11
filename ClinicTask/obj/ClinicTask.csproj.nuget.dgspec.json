@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Turan Salimli\\source\\repos\\ClinicTask\\ClinicTask\\ClinicTask.csproj": {}
+    "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\ClinicTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Turan Salimli\\source\\repos\\ClinicTask\\ClinicTask\\ClinicTask.csproj": {
+    "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\ClinicTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Turan Salimli\\source\\repos\\ClinicTask\\ClinicTask\\ClinicTask.csproj",
+        "projectUniqueName": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\ClinicTask.csproj",
         "projectName": "ClinicTask",
-        "projectPath": "C:\\Users\\Turan Salimli\\source\\repos\\ClinicTask\\ClinicTask\\ClinicTask.csproj",
+        "projectPath": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\ClinicTask.csproj",
         "packagesPath": "C:\\Users\\Turan Salimli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Turan Salimli\\source\\repos\\ClinicTask\\ClinicTask\\obj\\",
+        "outputPath": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Turan Salimli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.15, )"

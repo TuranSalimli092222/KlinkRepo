@@ -1,9 +1,10 @@
 ﻿using ClinicTask.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ClinicTask.DAL
 {
-    public class AppDbContext:DbContext
+    public class AppDbContext:IdentityDbContext<AppUser>
     {
 
        public DbSet<Department> Departments {  get; set; }

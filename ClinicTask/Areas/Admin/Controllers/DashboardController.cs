@@ -83,6 +83,7 @@ public class DashboardController : Controller
             AllDoctors = _context.Doctors.Select(s => new SelectListItem { Value = s.Id.ToString(), Text = s.FullName }).ToList(),
             DoctorIds = new List<int>()
         };
+
         return View(bathAssignVM);
     }
     [HttpPost]
@@ -93,6 +94,7 @@ public class DashboardController : Controller
         {
             doctor.DepartmentId = model.DepartmentId;
         }
+        _context.SaveChanges();
         return RedirectToAction(nameof(Index));
     }
 }

@@ -7,6 +7,6 @@ namespace ClinicTask.Areas.Admin.ViewModels.Doctors
 	{
 		public int DepartmentId { get; set; }
 		public List<SelectListItem>? AllDoctors { get; set; }
-		public List<int>? DoctorIds { get; set; }
+		public List<int> DoctorIds { get; set; }
 	}
 }

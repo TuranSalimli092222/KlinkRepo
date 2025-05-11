@@ -1,12 +1,11 @@
 ﻿@using ClinicTask.Areas.Admin.ViewModels.Doctors
 @model BathAssignVM
 <h2>Assign Doctors to Department</h2>
-<form asp-action="Create" method="post">
+<form asp-action="AssignDepartments" method="post">
     <div class="form-group">
         <input type="hidden" asp-for="DepartmentId"/>
-        <select asp-items="Model.AllDoctors" class="form-select" multiple>
+        <select asp-items="Model.AllDoctors" class="form-select" multiple asp-for="DoctorIds">
             <option selected>Chose Departments</option>
-          
         </select>
     </div>
 

@@ -3,56 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\areas\\admin\\views\\dashboard\\assigndepartments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\areas\\admin\\views\\dashboard\\assigndepartments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\areas\\admin\\viewmodels\\doctors\\bathassignvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\areas\\admin\\viewmodels\\doctors\\bathassignvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|c:\\users\\turan salimli\\desktop\\assigntask\\clinictask\\utilities\\file\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFFDCCB-1771-40C6-8378-130AD2A33BA2}|ClinicTask\\ClinicTask.csproj|solutionrelative:clinictask\\utilities\\file\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,164 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AssignDepartments.cshtml",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Dashboard\\AssignDepartments.cshtml",
-              "RelativeDocumentMoniker": "ClinicTask\\Areas\\Admin\\Views\\Dashboard\\AssignDepartments.cshtml",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Dashboard\\AssignDepartments.cshtml",
-              "RelativeToolTip": "ClinicTask\\Areas\\Admin\\Views\\Dashboard\\AssignDepartments.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T23:26:02.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ClinicTask\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ClinicTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAMYAAAAAAAAAAAAAAO4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T22:50:46.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "RelativeDocumentMoniker": "ClinicTask\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "RelativeToolTip": "ClinicTask\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T15:35:49.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "RelativeDocumentMoniker": "ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "RelativeToolTip": "ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T15:34:54.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "ClinicTask\\Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Models\\Doctor.cs",
-              "RelativeToolTip": "ClinicTask\\Models\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:18:57.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "ClinicTask\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "ClinicTask\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBAAAAAEAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:01:23.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "RelativeDocumentMoniker": "ClinicTask\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "RelativeToolTip": "ClinicTask\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T15:08:49.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "ClinicTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "ClinicTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAkwCEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:01:42.253Z",
+              "WhenOpened": "2025-05-11T09:49:57.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAACIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T15:01:18.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BathAssignVM.cs",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\ViewModels\\Doctors\\BathAssignVM.cs",
-              "RelativeDocumentMoniker": "ClinicTask\\Areas\\Admin\\ViewModels\\Doctors\\BathAssignVM.cs",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\ViewModels\\Doctors\\BathAssignVM.cs",
-              "RelativeToolTip": "ClinicTask\\Areas\\Admin\\ViewModels\\Doctors\\BathAssignVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Utilities\\File\\FileExtension.cs",
+              "RelativeDocumentMoniker": "ClinicTask\\Utilities\\File\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Utilities\\File\\FileExtension.cs",
+              "RelativeToolTip": "ClinicTask\\Utilities\\File\\FileExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T00:12:46.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "ClinicTask\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Models\\Department.cs",
-              "RelativeToolTip": "ClinicTask\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:18:52.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
-              "RelativeDocumentMoniker": "ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
-              "RelativeToolTip": "ClinicTask\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T15:01:14.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "RelativeDocumentMoniker": "ClinicTask\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AssignTask\\ClinicTask\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "RelativeToolTip": "ClinicTask\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T15:01:11.786Z"
+              "WhenOpened": "2025-05-11T09:47:15.073Z"
             }
           ]
         }

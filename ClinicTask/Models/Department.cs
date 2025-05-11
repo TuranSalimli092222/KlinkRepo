@@ -9,6 +9,5 @@ namespace ClinicTask.Models
 		public string Title {  get; set; }  
 
         public ICollection<Doctor>? Doctors { get; set; }
-	
     }
 }
